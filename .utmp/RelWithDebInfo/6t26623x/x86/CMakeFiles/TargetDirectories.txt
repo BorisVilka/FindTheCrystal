@@ -1,0 +1,8 @@
+C:/Users/boris/UnityProjects/Find the crystal/.utmp/RelWithDebInfo/6t26623x/x86/CMakeFiles/edit_cache.dir
+C:/Users/boris/UnityProjects/Find the crystal/.utmp/RelWithDebInfo/6t26623x/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/boris/UnityProjects/Find the crystal/.utmp/RelWithDebInfo/6t26623x/x86/GameActivity/CMakeFiles/game.dir
+C:/Users/boris/UnityProjects/Find the crystal/.utmp/RelWithDebInfo/6t26623x/x86/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/boris/UnityProjects/Find the crystal/.utmp/RelWithDebInfo/6t26623x/x86/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/boris/UnityProjects/Find the crystal/.utmp/RelWithDebInfo/6t26623x/x86/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/boris/UnityProjects/Find the crystal/.utmp/RelWithDebInfo/6t26623x/x86/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/boris/UnityProjects/Find the crystal/.utmp/RelWithDebInfo/6t26623x/x86/FramePacing/CMakeFiles/rebuild_cache.dir

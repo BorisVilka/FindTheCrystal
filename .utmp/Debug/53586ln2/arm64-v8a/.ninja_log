@@ -1,0 +1,21 @@
+# ninja log v5
+63	303	7301708989107946	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c5a195dbdfc782c5
+1	1522	7301709001307017	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	735754b53eaa7872
+303	1323	7301708998571690	C:/Users/boris/UnityProjects/Find the crystal/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/53586ln2/obj/arm64-v8a/libswappywrapper.so	30f27d68e30f2116
+7	1322	7301708998195842	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7be91bb3136087c8
+41	1312	7301708996904237	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8369a01798d12d55
+32	1320	7301708998626901	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3f965d9ad56e16f4
+25	1313	7301708997334624	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	dbd2d1c29b0c6997
+49	1316	7301708998005397	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b8f61218ac8a5306
+17	1315	7301708997815060	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	20f763bd5f9f2307
+1522	1698	7301709002501820	C:/Users/boris/UnityProjects/Find the crystal/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/53586ln2/obj/arm64-v8a/libgame.so	3a64736daa28e716
+40	256	7302643355736501	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c5a195dbdfc782c5
+256	460	7302643357281948	C:/Users/boris/UnityProjects/Find the crystal/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/53586ln2/obj/arm64-v8a/libswappywrapper.so	30f27d68e30f2116
+28	1039	7302643363542694	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8369a01798d12d55
+22	1067	7302643363834851	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3f965d9ad56e16f4
+34	1076	7302643363920306	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b8f61218ac8a5306
+17	1112	7302643364276940	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	20f763bd5f9f2307
+8	1117	7302643364336992	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	dbd2d1c29b0c6997
+13	1171	7302643364893738	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7be91bb3136087c8
+3	1221	7302643365384579	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	735754b53eaa7872
+1221	1360	7302643366352748	C:/Users/boris/UnityProjects/Find the crystal/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/53586ln2/obj/arm64-v8a/libgame.so	3a64736daa28e716

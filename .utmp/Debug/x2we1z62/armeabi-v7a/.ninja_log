@@ -1,0 +1,11 @@
+# ninja log v5
+87	324	7298221126511971	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	53dc33ecee5f2d81
+38	1103	7298221134270649	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8a96ad7dcd5e7126
+31	1173	7298221135066424	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2d66a7d1777703a3
+325	1174	7298221133609753	C:/Users/boris/UnityProjects/Find the crystal/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.com.unity.template.mobile2D/gradle-project/unityLibrary/build/intermediates/cxx/Debug/x2we1z62/obj/armeabi-v7a/libswappywrapper.so	602d27a6b123620d
+1	1211	7298221135629480	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f04b280715a7fb49
+19	1221	7298221135724632	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	171834e0b34e369
+70	1222	7298221135704613	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4b4ae1f53dc693ac
+11	1232	7298221135854432	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d8e3c2f95eaed849
+6	1258	7298221136108424	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	744880ad4f42c01a
+1258	1454	7298221137759390	C:/Users/boris/UnityProjects/Find the crystal/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.com.unity.template.mobile2D/gradle-project/unityLibrary/build/intermediates/cxx/Debug/x2we1z62/obj/armeabi-v7a/libgame.so	454436a6680530fe
